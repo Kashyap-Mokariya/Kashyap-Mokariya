@@ -1,5 +1,15 @@
 # 💫 About Me:
-Im a full stack web developer
+
+Hey there! I'm **Kashyap Mokariya**, a passionate Computer Science undergrad. I thrive on building impactful full-stack web applications, with a keen interest in designing intuitive user experiences and solving real-world problems through code.
+
+Over the past few months, I’ve worked on projects like:
+
+- 🗂️ [**PlanIt**](https://github.com/Kashyap-Mokariya/PlanIt) – a team collaboration and project management platform featuring Kanban, List, Table, and Timeline views, built using **Next.js, Prisma, Clerk, Redux, PostgreSQL**, and more.
+- ☁️ [**Chrono Vault**](https://github.com/Kashyap-Mokariya/Chrono-Vault?tab=readme-ov-file) – a secure file storage & AI-driven transcription tool powered by **Supabase** and **AssemblyAI**, offering real-time metadata extraction and 95% accurate speech-to-text.
+
+🔧 I'm well-versed in **C, C++, JavaScript, TypeScript**, and tools like **Tailwind CSS**, **Express.js**, and **Supabase**. I'm also familiar with **MySQL**, **MongoDB**, and **Sanity** CMS.
+
+Let’s connect and build something awesome together!
 
 
 ## 🌐 Socials:
